@@ -1,4 +1,4 @@
-# olist-ecommerce
+# Olist Ecommerce Project
 Set up Azure resources to ingest raw data from GitHub and MySQL into Data Lake, process and join it in Databricks with MongoDB data, and store the final outputs for downstream use.
 
 Olist E-commerce Data Pipeline for E-commerce Analytics
